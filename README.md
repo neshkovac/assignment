@@ -1,4 +1,4 @@
-# fe__asignment
+# fe__assignment
 
 ## Example of basic CRUD with modal showing the data about each restaurant.
 
