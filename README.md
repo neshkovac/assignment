@@ -1,4 +1,6 @@
-# fe__zadatak
+# fe__asignment
+
+## Example of basic CRUD with modal showing the data about each restaurant.
 
 ## Project setup
 ```
